@@ -7,6 +7,7 @@ The design phase spanned several months, beginning in early August with extensiv
 ## Software Phase
 A small ring was printed out by seperating the actual ring into smaller sections of a4 paper online and printing it out and then gluing them together. This was used to test out the light sensors of the sumo robot.
 The software consisted of three parts: 
-####Light sensors and staying in the ring
-####Front uv sensor and detection of opponent robot
-####Right and left ir sensor and detection of opponent robot
+
+#### Light sensors and staying in the ring
+#### Front uv sensor and detection of opponent robot
+#### Right and left ir sensor and detection of opponent robot
