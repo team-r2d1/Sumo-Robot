@@ -14,5 +14,5 @@ The software consisted of three parts:
 
 This work was done mainly at home but we also worked on it together at school whenever we could, during lunch breaks or free periods. We encountered many problems with the tuning of the light sensors and adjusting the turning amount to fit the ring size. This was fixed by constant trial and error. 
 
-<img align="left" width="1000" src="[https://thehappypuppysite.com/wp-content/uploads/2017/10/Cute-Dog-Names-HP-long.jpg](https://github.com/user-attachments/assets/26b6a027-1a5f-48a9-ab25-568ba719316b)">
+<img align="left" width="1000" src="https://github.com/user-attachments/assets/26b6a027-1a5f-48a9-ab25-568ba719316b">
 
