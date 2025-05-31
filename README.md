@@ -13,10 +13,8 @@ The software consisted of three parts:
 #### Right and left ir sensor and detection of opponent robot
 
 This work was done mainly at home but we also worked on it together at school whenever we could, during lunch breaks or free periods. We encountered many problems with the tuning of the light sensors and adjusting the turning amount to fit the ring size. This was fixed by constant trial and error. 
-### These pictures show the final metal body during assembly (left) and the makeshift ring with earlier prototypes (right)
+### These pictures show the final metal body during assembly (left) and the makeshift ring with earlier prototypes (right) and final robot (bottom)
 
 <img align="left" width="450" height="500" src="https://github.com/user-attachments/assets/7d1f7198-7acf-4b21-9cfd-e06538430931">
 <img align="right" width="300" height="400" src="https://github.com/user-attachments/assets/5fefda5b-0fc3-470b-b882-de4f935bb370">
-
-### Final Robot
 <img src="https://github.com/user-attachments/assets/209ddb58-65da-45b9-a1c2-b5ed3b2cb44a">
