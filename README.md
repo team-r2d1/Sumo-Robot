@@ -17,4 +17,8 @@ This work was done mainly at home but we also worked on it together at school wh
 <img align="left" width="450" height="500" src="https://github.com/user-attachments/assets/7d1f7198-7acf-4b21-9cfd-e06538430931">
 <img align="right" width="450" height="500" src="https://github.com/user-attachments/assets/5fefda5b-0fc3-470b-b882-de4f935bb370">
 
-<img src="https://github.com/user-attachments/assets/26b6a027-1a5f-48a9-ab25-568ba719316b">
+Picture on the left shows the final metal body while assembling the components, and the picture on the right shows the makeshit ring for testing with earlier prototypes
+
+<img src="https://github.com/user-attachments/assets/209ddb58-65da-45b9-a1c2-b5ed3b2cb44a">
+
+This shows the image of the final sumo robot, finished with our logo on top
