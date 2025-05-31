@@ -19,6 +19,5 @@ This work was done mainly at home but we also worked on it together at school wh
 
 Picture on the left shows the final metal body while assembling the components, and the picture on the right shows the makeshit ring for testing with earlier prototypes
 
+# Final Robot
 <img src="https://github.com/user-attachments/assets/209ddb58-65da-45b9-a1c2-b5ed3b2cb44a">
-
-This shows the image of the final sumo robot, finished with our logo on top
