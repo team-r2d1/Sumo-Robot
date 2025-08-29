@@ -17,4 +17,4 @@ This work was done mainly at home but we also worked on it together at school wh
 
 <img align="left" width="450" height="500" src="https://github.com/user-attachments/assets/7d1f7198-7acf-4b21-9cfd-e06538430931">
 <img align="right" width="300" height="400" src="https://github.com/user-attachments/assets/5fefda5b-0fc3-470b-b882-de4f935bb370">
-<img src="https://github.com/user-attachments/assets/209ddb58-65da-45b9-a1c2-b5ed3b2cb44a">
+<img src="7d37812b-e5fa-4203-a96e-a60b7e021f24.jpg">
